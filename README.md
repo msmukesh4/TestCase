@@ -1,13 +1,6 @@
-# TestCase
-My Git Hub Program
+hey i have deleted all the files and only
+the recent file is left with me
+and this file is not going to be seved in 
+the cloud and should not be pushed and should only stay in the local machine only.
 
-things can be put in the programs in this way
-gust learning to use gitHub
-added a new line
-
-this is the new line. :) :)
-
-edited in the web
-
-
-noe edited
+:( :(  feeling bad for readme :( 
